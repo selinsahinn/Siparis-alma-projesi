@@ -1,0 +1,5 @@
+﻿  siparis olusturma.cpp
+C:\Users\selin\Desktop\siparis olusturma\siparis olusturma\siparis olusturma.cpp(51,9): warning C4101: 'firmaNo': unreferenced local variable
+C:\Users\selin\Desktop\siparis olusturma\siparis olusturma\siparis olusturma.cpp(590,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\selin\Desktop\siparis olusturma\siparis olusturma\siparis olusturma.cpp(595,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  siparis olusturma.vcxproj -> C:\Users\selin\Desktop\siparis olusturma\Debug\siparis olusturma.exe
